@@ -45,3 +45,15 @@ Liver &, 8-4-2021, "Acute hepatitis-general," No Publication, https://www.pathol
 neptune.ai, 7-19-2021, "F1 Score vs ROC AUC vs Accuracy vs PR AUC: Which Evaluation Metric Should You Choose?," https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc
 
 Dataset used: Peter Turney), xx-xx-xxxx, "UCI Machine Learning Repository: Hepatitis Data Set," No Publication, https://archive.ics.uci.edu/ml/datasets/hepatitis
+
+The files in this repository should be observed in the following order:
+1. Initialization
+2. Data Cleaning and Encoding Categoricals
+3. Splitting the Data
+4. Initial Model Testing
+5. Binning and Polynomial Features for Improvement of LogisticRegression
+6. Log Transform
+7. Parameter Tuning
+8. Test Set Evaluation
+9. Analysis and Conclusion
+10. Adding Percent Confidence to the Model
